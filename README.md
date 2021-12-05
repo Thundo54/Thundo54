@@ -1,5 +1,6 @@
 # Hello 👋 I'm Thundo!
-<img src="https://img.shields.io/badge/Symulator%20Urz%C4%85dze%C5%84%20Przejazdowych-v1.3-red?style=for-the-badge"></img> 
+<img src="https://img.shields.io/badge/Symulator%20Urz%C4%85dze%C5%84%20Przejazdowych-v1.3-red?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/AreYouDumb-v1.0.0-blue?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/Thundu%C5%9BBOT-v2.1.1-orange?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/OlgBOT-v3.0.9-purple?style=for-the-badge"></img> 
 ### aboutme.py
