@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/AreYouDumb-v1.0.0-blue?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/Muffin-v3.1.1-a78cd3?style=for-the-badge"></img> 
 <img src="https://img.shields.io/badge/OlgBOT-v3.0.9-purple?style=for-the-badge"></img> 
-<img src="https://img.shields.io/badge/Symulator%20Tablic%20Relacyjnych-Not%20released-green?style=for-the-badge"></img> 
+<img src="https://img.shields.io/badge/Symulator%20Tablic%20Relacyjnych-v0.0.5-green?style=for-the-badge"></img> 
 ### aboutme.py
 ```python
 thundo = {
