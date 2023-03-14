@@ -11,14 +11,6 @@ thundo = {
     "location": "PL",   
     "hobbies": ["linux", "RPi", "coffee", "music"],
     "code": ["C#", "python", "Javascript", "PHP"],
-    "technologies": {
-        "apps": {
-            "C#": [".NET", "WPF"],
-        },
-        "discord bots": {
-            "python": "discord.py",
-        },
-    },
     "contact": {
         "discord": "Thundo#8383",
     },
