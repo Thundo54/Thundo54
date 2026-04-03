@@ -12,7 +12,7 @@ thundo = {
     "hobbies": ["linux", "RPi", "coffee", "music"],
     "code": ["C#", "python", "Javascript", "PHP"],
     "contact": {
-        "discord": "Thundo#8383",
+        "discord": "Thundo",
     },
 }
 ```
