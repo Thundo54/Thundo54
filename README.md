@@ -1,22 +1,38 @@
 # Hello 👋 I'm Thundo!
-<img src="https://img.shields.io/badge/Symulator%20Urz%C4%85dze%C5%84%20Przejazdowych-v1.6.2-red?style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/AreYouDumb-v1.0.0-blue?style=for-the-badge"></img> 
-<img src="https://img.shields.io/badge/Muffin-v3.1.1-a78cd3?style=for-the-badge"></img> 
-<img src="https://img.shields.io/badge/OlgBOT-v3.0.9-purple?style=for-the-badge"></img> 
-<img src="https://img.shields.io/badge/Symulator%20Tablic%20Zbiorczych-v1.3.4-green?style=for-the-badge"></img> 
-### aboutme.py
-```python
-thundo = {
-    "pronouns": "he",   
-    "location": "PL",   
-    "hobbies": ["linux", "RPi", "coffee", "music"],
-    "code": ["C#", "python", "Javascript", "PHP"],
-    "contact": {
-        "discord": "Thundo",
-    },
-}
+<img src="https://img.shields.io/badge/Symulator%20Urz%C4%85dze%C5%84%20Przejazdowych-v1.8-red?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/Symulator%20Tablic%20Zbiorczych-v1.5.5-green?style=for-the-badge"></img> 
+<img src="https://img.shields.io/badge/Asystent%20Kas%20Biletowych-v5.1-blue?style=for-the-badge"></img> 
+### 👨‍💻 About Me
+
+```javascript
+const thundo = {
+  pronouns: "he/him",
+  location: "Poland 🇵🇱",
+  
+  stack: {
+    languages: ["C#", "Python", "JavaScript", "PHP"],
+    tools: ["Docker", "Git", "Nginx", "Linux/Bash"]
+  },
+
+  hardware: ["Raspberry Pi", "Home Server"],
+  
+  hobbies: {
+    tinkering: ["Linux", "Self-hosting", "IoT"],
+    lifestyle: ["Coffee brewing ☕", "Music 🎧"]
+  },
+
+  contact: {
+    discord: "Thundo",
+  },
+
+  getStatus: () => {
+    return "Optimizing code & drinking coffee";
+  }
+};
 ```
-#
+---
+
+### 🛠 Tech Stack & Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
